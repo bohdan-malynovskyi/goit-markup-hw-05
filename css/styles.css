@@ -691,7 +691,7 @@ border-color: #4d5ae5;
     fill: transparent;
 }
 
-#user-privacy:checked ~ .checkbox-label + .checkbox-window {
+#user-privacy:checked ~ .checkbox-label > .checkbox-window {
     background-color: #404bbf;
     border: none;
     fill: #f4f4fd;
